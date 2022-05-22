@@ -1,4 +1,4 @@
-# crash-course-vue
+# liste-héros
 
 ## Project setup
 ```
